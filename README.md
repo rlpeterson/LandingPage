@@ -4,9 +4,11 @@
 
 ## Description
 My Readme file for my GitHub Landing Page _Projects_
+https://rlpeterson.github.io/LandingPage/
 
 ## Projects
 
+* Landing Page: https://github.com/rlpeterson/LandingPage
 * Vacation (Africa): https://github.com/rlpeterson/vacation
 * Flocking Seagulls (band page): https://github.com/rlpeterson/flockingseagulls
 * Fish Market: https://github.com/rlpeterson/fishmarket
