@@ -17,4 +17,4 @@ https://rlpeterson.github.io/LandingPage/
 * Resort: https://github.com/rlpeterson/resort
 
 *{GPL}*
-Copyrught 2018 _**RP**_
+Copyright 2018 _**RP**_
